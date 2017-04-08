@@ -1,0 +1,1 @@
+no hace falta añadir "start" : "node server.js" en packages.json ya que esta es una instrucción por defecto de NPM, sin embargo la coloco por causa de la referencia conceptual
